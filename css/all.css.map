@@ -1,0 +1,1 @@
+{"version":3,"sources":["all.scss"],"names":[],"mappings":"AACA;EACI,iBAFgB;EAGhB,YAAY;EACZ,gBAAgB;EAChB,cAAc,EAAA","file":"all.css","sourcesContent":["$primary-color:white;\nbody {\n    background: $primary-color;\n    color: green;\n    max-width: 960px;\n    margin: 0 auto;\n}"]}
