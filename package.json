@@ -33,7 +33,7 @@
         "gulp-uglify": "^3.0.2",
         "gulp-watch": "^5.0.1",
         "main-bower-files": "^2.13.3",
-        "minimist": "^1.2.5",
+        "minimist": "^1.2.6",
         "node-sass": "^4.14.0"
     },
     "browserslist": [
